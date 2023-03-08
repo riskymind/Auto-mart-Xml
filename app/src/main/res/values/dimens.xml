@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_header_text_size">24sp</dimen>
+    <dimen name="one_step_margin">8dp</dimen>
+    <dimen name="two_step_margin">16dp</dimen>
+    <dimen name="third_step_margin">24dp</dimen>
+</resources>
