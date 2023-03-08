@@ -88,6 +88,7 @@
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.button.MaterialButton
+        android:id="@+id/login_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/third_step_margin"
@@ -96,6 +97,20 @@
         app:layout_constraintEnd_toEndOf="@id/password_layout"
         app:layout_constraintStart_toStartOf="@id/password_layout"
         app:layout_constraintTop_toBottomOf="@id/password_layout" />
+
+    <TextView
+        android:id="@+id/user_switch_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/two_step_margin"
+        android:padding="10dp"
+        android:text="@string/switch_to_seller"
+        android:textColor="@color/caption_color"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@id/email_layout"
+        app:layout_constraintEnd_toEndOf="@id/email_layout"
+        app:layout_constraintStart_toStartOf="@id/email_layout"
+        tools:layout_editor_absoluteY="470dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 
