@@ -14,4 +14,14 @@
     <string name="sign_in_as_buyer">Sign in as buyer</string>
     <string name="login">Login</string>
     <string name="switch_to_seller">Switch to Seller</string>
+    <string name="back">back</string>
+    <string name="post_ad">Post Ad</string>
+    <string name="kindly_fill_in_this_form">Kindly fill in this form</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="model">Model</string>
+    <string name="body_type">Body type</string>
+    <string name="state">State</string>
+    <string name="price">Price</string>
+    <string name="submit">Submit</string>
+    <string name="edit_image_icon">edit image icon</string>
 </resources>

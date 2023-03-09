@@ -4,4 +4,9 @@
     <dimen name="one_step_margin">8dp</dimen>
     <dimen name="two_step_margin">16dp</dimen>
     <dimen name="third_step_margin">24dp</dimen>
+    <dimen name="icon_padding">12dp</dimen>
+
+    <!--   Text dimen -->
+    <dimen name="default_text">16sp</dimen>
+    <dimen name="btn_height">55dp</dimen>
 </resources>
