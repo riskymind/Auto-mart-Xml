@@ -49,4 +49,11 @@ dependencies {
 
     // Rounded Image view
     implementation 'com.makeramen:roundedimageview:2.3.0'
+
+    // Navigation component
+    implementation "androidx.navigation:navigation-fragment-ktx:2.5.3"
+    implementation "androidx.navigation:navigation-ui-ktx:2.5.3"
+
+    // Testing Navigation
+    androidTestImplementation "androidx.navigation:navigation-testing:2.5.3"
 }

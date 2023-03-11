@@ -25,4 +25,10 @@
     <string name="submit">Submit</string>
     <string name="edit_image_icon">edit image icon</string>
     <string name="mark_as_sold">Mark as sold?</string>
+    <string name="home">Home</string>
+    <string name="profile">profile</string>
+    <string name="order">order</string>
+    <string name="post_add_button">post add button</string>
+    <string name="image">image</string>
+    <string name="year">Year</string>
 </resources>
