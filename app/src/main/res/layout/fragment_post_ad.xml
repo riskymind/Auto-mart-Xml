@@ -5,13 +5,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/screen_background"
-    tools:context=".seller.PostAdFragment">
+    tools:context=".ads.PostAdFragment">
 
     <ImageView
         android:id="@+id/back_btn"
         style="@style/back_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/one_step_margin"
         android:contentDescription="@string/back"
         app:layout_constraintStart_toStartOf="parent"
